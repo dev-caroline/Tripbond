@@ -1,0 +1,11 @@
+.b:hover{
+    border-bottom: 2px solid black;
+}
+.d:hover{
+    background-color: blueviolet;
+    color: white;
+    border-color: black;
+}
+.register:hover{
+    box-shadow: 0 0 10px;
+}

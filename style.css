@@ -1,0 +1,107 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box{
+    background-color: #8D80F6;
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.box2{
+    margin: 100px;
+    margin-left: 400px;
+    background-color: whitesmoke;
+    /* border: 5px solid white; */
+    box-shadow: 0 0 20px;
+    border-radius: 40px;
+    height: 500px;
+    width: 800px;
+    position: absolute;
+    /* background-image: linear-gradient(to right, #440381 50%, #fff); */
+}
+.head{
+    display: flex;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.a{
+    font-weight: 800;
+    color: #8D80F6;
+    font-size: 1.5em;
+}
+.nav{
+    display: flex;
+    margin-left: 120px;
+    gap: 20px;
+}
+.b{
+    text-decoration: none;
+    color: black;
+    border-bottom: 2px solid whitesmoke;
+}
+.c{
+    text-decoration: none;
+    color: black;
+    border-bottom: 2px solid black;
+}
+.d{
+    text-decoration: none;
+    color: black;
+    background-color: #8D80F6;
+    padding: 8px 20px;
+    border-radius: 10px;
+    margin-left: 150px;
+    border: 2px solid #8D80F6;
+    font-weight: 600;
+}
+.box3{
+    margin-top: 50px;
+    margin-left: 60px;
+    display: flex;
+}
+.text{
+    font-size: 2em;
+    font-weight: 900;
+}
+.image{
+    margin-left: 100px;
+}
+.form{
+    font-size: 16px;
+    margin-top: 20px;
+}
+.place{
+    height: 25px;
+    width: 230px;
+    /* color: #f68080; */
+    /* background-color: #a1a1a3; */
+    font-weight: 700;
+    background-image: linear-gradient(to right, #8D80F6 30%, white);
+}
+.place2{
+    height: 25px;
+    width: 100px;
+    font-weight: 700;
+    background-image: linear-gradient(to right, #8D80F6 30%, white);
+}
+.form2{
+    display: flex;
+    font-size: 16px;
+    margin-top: 20px;
+    gap: 10px;
+}
+.register{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    /* background-color: #8D80F6; */
+    /* box-shadow: 0 0 10px; */
+    background-image: linear-gradient(to right, #8D80F6 30%, white);
+    border-radius: 20px;
+    font-size: 25px;
+}
