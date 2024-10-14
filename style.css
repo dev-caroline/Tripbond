@@ -13,7 +13,7 @@
     position: relative;
 }
 .box2{
-    margin: 100px;
+    margin-top: 100px;
     margin-left: 400px;
     background-color: whitesmoke;
     /* border: 5px solid white; */
@@ -82,12 +82,14 @@
     /* background-color: #a1a1a3; */
     font-weight: 700;
     background-image: linear-gradient(to right, #8D80F6 30%, white);
+    text-transform: uppercase;
 }
 .place2{
     height: 25px;
     width: 100px;
     font-weight: 700;
     background-image: linear-gradient(to right, #8D80F6 30%, white);
+    text-transform: uppercase;
 }
 .form2{
     display: flex;
